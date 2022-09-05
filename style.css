@@ -1,5 +1,10 @@
 body {
-    background-color: black;
-    color: green;
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
   }
 
